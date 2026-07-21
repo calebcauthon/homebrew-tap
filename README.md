@@ -18,6 +18,7 @@ brew install calebcauthon/tap/agent-tee
 ## Available Formulae
 
 - **agent-tee** - Run commands while teeing stdout+stderr to per-concern log files
+- **wtnow** - Create a git worktree from the default branch and cd into it
 
 ## License
 
