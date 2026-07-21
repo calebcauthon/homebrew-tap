@@ -5,8 +5,6 @@ class Wtnow < Formula
   sha256 "eddc8f5496ae4aad234a10591fbde25159b4e1f8d2477c4ca225f9e5661c97b6"
   license "MIT"
 
-  depends_on "git"
-
   def install
     bin.install "wtnow"
   end
