@@ -1,8 +1,8 @@
 class Wtnow < Formula
-  desc "Create a git worktree from the default branch and cd into it"
+  desc "Create a git worktree from any branch and cd into it"
   homepage "https://github.com/calebcauthon/wtnow"
-  url "https://github.com/calebcauthon/wtnow/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "eddc8f5496ae4aad234a10591fbde25159b4e1f8d2477c4ca225f9e5661c97b6"
+  url "https://github.com/calebcauthon/wtnow/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "fd2f1dff2cfd4557dce95455729b73984d4a8440bfcd130586899285aa943d16"
   license "MIT"
 
   def install
